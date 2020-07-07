@@ -1,0 +1,16 @@
+c:\users\user1\documents\visual studio 2012\Projects\MetnumMilne\MetnumMilne\bin\Debug\MetnumMilne.exe.config
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\bin\Debug\MetnumMilne.exe
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\bin\Debug\MetnumMilne.pdb
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\bin\Debug\MetnumMilne.xml
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.Form1.resources
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.Resources.resources
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.vbproj.GenerateResource.Cache
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.exe
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.xml
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.pdb
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.vbprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\Visual Studio 2012\Projects\MetnumMilne\MetnumMilne\bin\Debug\NCalc.dll
+D:\MetnumMilne\MetnumMilne\bin\Debug\MetnumMilne.exe.config
+D:\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.exe
+D:\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.xml
+D:\MetnumMilne\MetnumMilne\obj\Debug\MetnumMilne.pdb
